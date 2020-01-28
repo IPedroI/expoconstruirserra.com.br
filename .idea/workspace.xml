@@ -25,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../grupodafel.com.br" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -53,6 +53,7 @@
       <workItem from="1579817408366" duration="3112000" />
       <workItem from="1579865992275" duration="19970000" />
       <workItem from="1580121733624" duration="557000" />
+      <workItem from="1580138048193" duration="6230000" />
     </task>
     <servers />
   </component>

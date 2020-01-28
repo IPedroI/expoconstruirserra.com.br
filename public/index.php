@@ -15,7 +15,7 @@
             </div>
             <div class="title">
                 <h1>
-                    Construção Civil - Imóveis - Serviços
+                    CONSTRUÇÃO CIVIL - IMÓVEIS - SERVIÇOS
                 </h1>
                 <h2>
                     Estamos preparando uma exposição de produtos e serviços para construção civil e imóveis em geral
